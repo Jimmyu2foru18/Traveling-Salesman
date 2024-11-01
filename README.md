@@ -46,17 +46,6 @@ The application:
 - Due to the brute-force approach, the application works best with 10 or fewer cities
 - Performance decreases exponentially with additional cities due to factorial time complexity
 
-## Contributing
-
-Feel free to fork this project and submit pull requests. You might consider:
-- Implementing more efficient algorithms (e.g., genetic algorithms, nearest neighbor)
-- Adding user controls for number of cities
-- Improving the visualization
-
-## License
-
-[Your chosen license]
-
 ## Acknowledgments
 
 - Based on the Traveling Salesman Problem, a classic computer science challenge
