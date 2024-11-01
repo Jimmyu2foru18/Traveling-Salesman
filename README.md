@@ -2,9 +2,6 @@
 
 A Processing application that visualizes the classic Traveling Salesman Problem (TSP) using a brute-force approach to find the optimal route between cities.
 
-## Preview
-[A screenshot or GIF of the application would go here]
-
 ## Requirements
 - [Processing 4.0+](https://processing.org/download)
 - Java 8 or higher
